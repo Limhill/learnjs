@@ -7,7 +7,7 @@ switch (number) {
     }
     case 2:
     case 3: {
-        alert('Вы ввели число 2 или 3');
+        alert('Вы ввели число Chapter 2 или 3');
         break;
     }
 }
