@@ -1,1 +1,0 @@
-alert(null || 2 || undefined); // Chapter 2
